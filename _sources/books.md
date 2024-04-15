@@ -16,7 +16,7 @@
 * great notation
 * usually slow start with rapid increase in complexity
 * interesting tasks of different level
-* rich biblipgraphy and lots of historical notes
+* rich bibliography and lots of historical notes
 * marginal graffiti
 ````
 `````
