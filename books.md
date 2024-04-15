@@ -1,4 +1,4 @@
-# Influential books
+# Books & Quotes
 
 ## CMath
 
@@ -52,7 +52,7 @@
 
 * Mainstream maths in education has become increasingly disconnected from the broad uses of maths in the real world
 
-* In real-world maths, computers do almost all the calculating; by contrast, in educational maths, people do almost all the calculating.
+* In real-world maths, computers do almost all the calculating; by contrast, in educational maths, people do almost all the calculating
 
 * No mainstream school maths curriculum has yet been reimagined and implemented based on the (obvious) assumption that computers exist
 
