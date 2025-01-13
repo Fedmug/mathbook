@@ -1,0 +1,16 @@
+version: 1
+project:
+  description: "A math book based on myst.md"
+  toc:
+    - file: README.md
+    - title: "Calculus"
+      children:
+        - file: calculus/calculus.md
+        - title: "Integrals"
+          children:
+            - file: calculus/integrals/riemann_sums.ipynb
+            - file: calculus/integrals/area.md
+            - file: calculus/integrals/riemann_integral.md
+site:
+  template: book-theme
+  title: Math Book
