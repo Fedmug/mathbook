@@ -97,3 +97,5 @@ The value in the middle is called the **average value** of $f$ on $[a,b]$.
 ## Exercises
 
 1. Find $\int\limits_0^{2\pi} \sin x\, dx$.
+
+2. Let $k \in \mathbb N$. Given that $\lim\limits_{n \to \infty} \frac 1{n^{k+1}}\sum_{i=1}^n i^k = \frac 1{k+1}$, find $\int\limits_0^1 x^k\,dx$.
